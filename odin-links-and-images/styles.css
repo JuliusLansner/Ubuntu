@@ -6,12 +6,23 @@ div{
     color: red;
     background-color: white;
 }
-a{
+p{
     color: red;
 }
 .alert-text{
     color: blue;
 }
 #title{
-    background-color: green;
+    background-color: white;
+}
+ .list li{
+    color: green;
+
+}
+#first{
+    color:red;
+}
+#second{
+    color: blue;
+
 }
